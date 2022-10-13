@@ -26,8 +26,8 @@ Assumptions for Markov Chain :
 # Program
 ```
 /*
-Developed by: S.Dinesh
-Registration number: 212220230011
+Developed by: Sarveshkaran vk
+Registration number: 212221230089
 */
 ```
 
